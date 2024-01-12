@@ -7,11 +7,11 @@ authors:
   - Andreas Haupt
   - Øyvind Wiborg
 
-date: 2022-10-20T16:25:52+02:00
-doi: ""
+date: 2023-04-20T16:25:52+02:00
+doi: "10.1093/esr/jcac052"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-20T16:25:52+02:00
+publishDate: 2023-05-20T16:25:52+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "European Sociolocigal Review"
-publication_short: "European Sociolocigal Review (forthcoming)"
+publication_short: "European Sociolocigal Review"
 
 abstract: "This paper discusses the crucial but sometimes neglected differences between unconditional
 quantile regression (UQR) models and quantile treatment effects (QTE) models. We argue that
@@ -39,11 +39,12 @@ match the correct model to the specific research questions. We conclude the pape
 practical guidelines for researchers"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "This paper discusses the crucial but sometimes neglected differences between unconditional
+quantile regression (UQR) models and quantile treatment effects (QTE) models."
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

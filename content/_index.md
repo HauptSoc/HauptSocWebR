@@ -77,6 +77,42 @@ sections:
   1) Explaining poverty changes in the USA and Germany (BW-Fundation); 2) Wage inequality and social closure (DFG); 3) Gender-specific positions and wage inequality (MWK-BW & KIT); 4) Explaining long-term trends in couples' relative earnings in Germany (BW-Fundation)"
       location: Germany
 
+
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Featured Publications
+  design:
+    columns: "2"
+    view: card
+  id: featured
+- block: collection
+  content:
+    filters:
+      exclude_featured: 
+      folders:
+      - publication
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: citation
+- block: collection
+  content:
+    filters:
+      folders:
+      - media
+    title: Media
+  design:
+    columns: "2"
+    view: card
+  id: media
+
+type: landing
+---
+
 - block: portfolio
   title: Projects
   content:
@@ -100,27 +136,3 @@ sections:
     flip_alt_rows: false
     view: showcase
   id: projects
-
-- block: collection
-  content:
-    filters:
-      featured_only: true
-      folders:
-      - publication
-    title: Featured Publications
-  design:
-    columns: "2"
-    view: card
-  id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
-type: landing
----

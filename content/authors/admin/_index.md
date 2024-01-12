@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sociologist
+role: Andreas Haupt
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: upload/CV-Haupt.pdf
+  link: upload/CVHaupt.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
