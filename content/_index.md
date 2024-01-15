@@ -43,10 +43,11 @@ sections:
   id: about
 
 - block: experience
+  id: positions
   design:
     columns: "2"
   content:
-    title: Experience
+    title: Positions
     date_format: Jan 2006
     items:
     - company: "Karlsruhe Institute of Technology"
@@ -76,6 +77,30 @@ sections:
       description:  "Projects:
   1) Explaining poverty changes in the USA and Germany (BW-Fundation); 2) Wage inequality and social closure (DFG); 3) Gender-specific positions and wage inequality (MWK-BW & KIT); 4) Explaining long-term trends in couples' relative earnings in Germany (BW-Fundation)"
       location: Germany
+
+- block: portfolio
+  content:
+    title: Projects
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Labor markets
+      tag: Labor markets
+    - name: Families
+      tag: Families
+    - name: Methods
+      tag: Methods
+    - name: Taxes and Inequality
+      tag: Taxation
+    default_button_index: 0
+    filters:
+      folders:
+      - project
+  design:
+    columns: "2"
+    flip_alt_rows: false
+    view: showcase
+  id: projects
 
 
 - block: collection
@@ -113,26 +138,3 @@ sections:
 type: landing
 ---
 
-- block: portfolio
-  title: Projects
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Labor markets
-      tag: Labor markets
-    - name: Families
-      tag: Families
-    - name: Methods
-      tag: Methods
-    - name: Taxes and Inequality
-      tag: Taxation
-    default_button_index: 0
-    filters:
-      folders:
-      - project
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects

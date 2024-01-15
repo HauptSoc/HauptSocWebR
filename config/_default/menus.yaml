@@ -8,17 +8,17 @@ main:
     url: '#about'
     weight: 10
   - name: Experience
-    url: '#experience'
+    url: '#positions'
     weight: 20
   - name: Research
     url: '#projects'
     weight: 30
   - name: Publications
-    url: '#publications'
+    url: '#featured'
     weight: 40
   - name: Media
     url: '#media'
     weight: 50
   - name: CV
-    url: upload/CVHaupt.pdf
+    url: /files/cvhaupt.pdf
     weight: 60
