@@ -7,3 +7,7 @@
 /.quarto/
 /_site/
 **/*.quarto_ipynb
+quarto-site/
+
+# Positron Assistant local settings
+.posit/

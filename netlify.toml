@@ -1,3 +1,4 @@
 [build]
-  command = "quarto render"
-  publish = "_site"
+  # Deploys are published via GitHub Actions (quarto-dev/quarto-actions/publish)
+  # using the Netlify API. Skip Netlify's own git-triggered builds entirely.
+  ignore = "exit 0"

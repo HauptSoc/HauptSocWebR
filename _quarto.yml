@@ -5,6 +5,9 @@ project:
     - "*.qmd"
     - "!archive/"
 
+execute:
+  freeze: auto
+
 website:
   title: "Andreas Haupt"
   navbar:

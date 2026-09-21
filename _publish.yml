@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 786ea7e5-b8ae-4a27-90c0-5b6b44cc5ff0
+      url: https://deluxe-tapioca-7e16e5.netlify.app
