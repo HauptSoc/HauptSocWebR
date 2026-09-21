@@ -1,0 +1,35 @@
+---
+title: "Andreas Haupt"
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:andreas.haupt@kit.edu
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=lM2EanIAAAAJ&hl=de
+    - icon: github
+      text: GitHub
+      href: https://github.com/HauptSoc
+    - text: CV
+      href: files/cvhaupt.pdf
+---
+
+<!-- Aus content/authors/admin/_index.md übernommen -->
+
+I'm a professor for sociology at the Karlsruhe Institute of Technology. My research concerns reasons and consequences of economic inequality in modern societies. I published work about the relations of occupations to wage inequality, income richness, changes for low-income households, poverty, and the gender wage gap. More recent work concerns how to apply distributional methods properly.
+
+### Forschungsinteressen
+
+- Occupations & Labor Markets
+- Gender specific inequalities
+- Economic inequality
+- Families and Couples
+- Distributional Methods
+
+### Ausbildung
+
+- Habilitation in Sociology, Karlsruhe Institute of Technology, 2021
+- Dr. phil in Sociology, Karlsruhe Institute of Technology, 2014
+- M.A. Sociology, Philosophy, Linguistics, Friedrich-Schiller-University Jena, 2008

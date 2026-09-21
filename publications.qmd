@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+<!-- Vorläufige, flache Auflistung. Interaktive Darstellung folgt später. -->
+
+- Beispieltitel der Publikation. Andreas Haupt, Koautor:in. *Journal Name*, 2023.
