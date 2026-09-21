@@ -1,0 +1,58 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=DM+Sans:wght@400;500;700&display=swap');
+
+$font-family-sans-serif: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$font-family-serif: "Source Serif 4", Georgia, serif;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: $font-family-serif;
+
+$body-bg: #faf6ef;
+$body-color: #2b2620;
+$primary: #b5533c;
+$link-color: $primary;
+
+/*-- scss:rules --*/
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1030;
+  background-color: rgba(250, 246, 239, 0.72) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  transition: box-shadow 0.25s ease;
+  box-shadow: none;
+}
+
+.navbar.navbar-scrolled {
+  box-shadow: 0 2px 14px rgba(43, 38, 32, 0.12);
+}
+
+body.quarto-light .navbar,
+body.quarto-light .navbar .navbar-title,
+body.quarto-light .navbar .navbar-brand,
+body.quarto-light .navbar .nav-link,
+body.quarto-light .navbar .quarto-navigation-tool {
+  color: #1a1a1a !important;
+}
+
+@import "cards";
+
+.navbar .nav-link {
+  position: relative;
+}
+
+.navbar .nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 100%;
+  bottom: 2px;
+  height: 2px;
+  background: $primary;
+  transition: right 0.25s ease;
+}
+
+.navbar .nav-link:hover::after,
+.navbar .nav-link.active::after {
+  right: 0;
+}

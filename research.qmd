@@ -1,0 +1,36 @@
+---
+title: "Research"
+---
+
+<!-- Struktur-Vorlage: jede Kachel ist ein Themenfeld. Titel, Text und
+     optional href (Link auf publications.qmd#... oder eine eigene Unterseite)
+     nach Bedarf anpassen oder weitere Kacheln ergänzen. -->
+
+::: {.tile-grid}
+
+::: {.tile-card}
+### Occupations & Labor Markets
+Wie Berufe Löhne, Aufstiegschancen und den Zugang zu Arbeitsmärkten strukturieren.
+:::
+
+::: {.tile-card}
+### Gender-Specific Inequality
+Geschlechtsspezifische Unterschiede in Löhnen, Aufgabenteilung und Erwerbsverläufen.
+:::
+
+::: {.tile-card}
+### Economic Inequality
+Ursachen und Verlauf von Einkommens- und Vermögensungleichheit.
+:::
+
+::: {.tile-card}
+### Families and Couples
+Arbeitsteilung, Einkommen und Entscheidungen innerhalb von Paaren und Familien.
+:::
+
+::: {.tile-card}
+### Distributional Methods
+Methoden zur Analyse von Verteilungen, u. a. Quantilsregression.
+:::
+
+:::

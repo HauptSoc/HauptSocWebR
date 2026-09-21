@@ -1,0 +1,27 @@
+---
+title: "Team"
+---
+
+Menschen, mit denen ich aktuell oder in der Vergangenheit zusammengearbeitet habe — ohne Rangfolge oder Gruppierung.
+
+<!-- Struktur-Vorlage: eine Karte pro Person, alle gleichwertig dargestellt.
+     Foto ist optional (person-photo weglassen, wenn keins vorhanden ist). -->
+
+::: {.person-grid}
+
+::: {.person-card}
+**Name Beispiel** <br>
+<span class="person-period">Institution, 2020–2023</span>
+:::
+
+::: {.person-card}
+**Name Beispiel 2** <br>
+<span class="person-period">Institution, seit 2024</span>
+:::
+
+::: {.person-card}
+**Name Beispiel 3** <br>
+<span class="person-period">Institution, 2018–2019</span>
+:::
+
+:::

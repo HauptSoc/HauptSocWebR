@@ -1,0 +1,15 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var navbar = document.querySelector(".navbar");
+  if (!navbar) return;
+  function onScroll() {
+    if (window.scrollY > 8) {
+      navbar.classList.add("navbar-scrolled");
+    } else {
+      navbar.classList.remove("navbar-scrolled");
+    }
+  }
+  document.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+});
+</script>

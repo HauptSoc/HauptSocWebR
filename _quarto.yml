@@ -14,11 +14,19 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
       - href: publications.qmd
         text: Publications
+      - href: team.qmd
+        text: Team
       - href: cv.qmd
         text: CV
 
 format:
   html:
     toc: false
+    theme:
+      light: theme-light.scss
+      dark: theme-dark.scss
+    include-after-body: navbar-scroll.html
