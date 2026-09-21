@@ -4,4 +4,18 @@ title: "Publications"
 
 <!-- Vorläufige, flache Auflistung. Interaktive Darstellung folgt später. -->
 
-- Beispieltitel der Publikation. Andreas Haupt, Koautor:in. *Journal Name*, 2023.
+- Andreas Haupt (2023). **Who profits from occupational licensing?** *American Sociological Review*. [DOI](https://doi.org/10.1177/00031224231207395) · [Code](https://osf.io/q6chw/)
+- Andreas Haupt, Dafna Gelbgiser (2023). **The gendered division of cognitive household labor, mental load, and family–work conflict in European countries.** *European Societies*. [DOI](https://doi.org/10.1080/14616696.2023.2271963) · [Code](https://osf.io/rvafg/)
+- Nicolai Topstad Borgen, Andreas Haupt, Øyvind Wiborg (2023). **Quantile Regression Estimands and Models: Revisiting the Motherhood Wage Penalty Debate.** *European Sociological Review*. [DOI](https://doi.org/10.1093/esr/jcac052)
+- Andreas Haupt, Susanne Strauß (2022). **Long-Term Trends in the Gender Income Gap within Couples: West Germany, 1978–2011.** *Social Politics*. [PDF](https://academic.oup.com/sp/article-pdf/29/3/980/45858508/jxac019.pdf) · [DOI](https://doi.org/10.1093/sp/jxac019)
+- Barbara Binder, Andreas Haupt (2022). **The fundamental role of tax systems in the relationship between workfare and inequality in the lower half of the income distribution.** *Research in Social Stratification and Mobility*. [DOI](https://doi.org/10.1016/j.rssm.2022.100712)
+- Andreas Haupt, Gerd Nollmann (2022). **Payroll exempt labor incomes increase inequality at the top.** *Social Forces*. [PDF](https://academic.oup.com/sf/advance-article-pdf/doi/10.1093/sf/soab133/41025788/soab133.pdf) · [DOI](https://doi.org/10.1093/sf/soab133)
+- Andreas Haupt, Christian Ebner (2020). **Occupations and Inequality: Theoretical Perspectives and Mechanisms.** *Kölner Zeitschrift für Soziologie und Sozialpsychologie*. [DOI](https://doi.org/10.1007/s11577-020-00685-0)
+- Christian Ebner, Andreas Haupt, Britta Matthes (2020). **Occupations and Social Inequality: Introduction and Contents of the Special Issue.** *Kölner Zeitschrift für Soziologie und Sozialpsychologie*. [DOI](https://doi.org/10.1007/s11577-020-00675-2)
+- Andreas Haupt (2019). **Einkommensreichtum in Deutschland zwischen 1993 und 2014.** *Schriftenreihe der Jungen Akademie der Wissenschaften und der Literatur Mainz*.
+- Felix Wolter, Andreas Haupt (2019). **Selbstselektion bei der Analyse von Kontexteffekten in der Bildungsforschung. Eine Illustration des Propensity-Score-Matchings.** In: Jule-Marie Lorenzen, Lisa-Marian Schmidt, Darius Zifonun (Hg.), *Methoden und Methodologien der Bildungsforschung*. Beltz Juventa.
+- Andreas Haupt, Nils Witte (2019). **Is Occupational Licensing More Beneficial for Women than for Men? The Case of Germany, 1993/2015.** *European Sociological Review*. [PDF](https://academic.oup.com/esr/advance-article-pdf/doi/10.1093/esr/jcz060/30745990/jcz060.pdf)
+- Andreas Haupt (2019). **The Long Road to Economic Independence of German Women, 1973 to 2011.** *Socius*. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/2378023118818740) · [DOI](https://doi.org/10.1177/2378023118818740) · [Code](https://github.com/HauptSoc/EconIndep)
+- Martin Abraham, Andreas Damelang, Andreas Haupt (2018). **Berufe und Arbeitsmarkt.** In: *Arbeitsmarktsoziologie. Probleme, Theorien, empirische Befunde*. [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-658-02256-3.pdf) · [DOI](https://doi.org/10.1007/978-3-658-02256-3)
+- Barbara Binder, Andreas Haupt (2018). **Wohlstand für alle? Die Entwicklung einkommensschwacher Haushalte seit 2005.** *WSI-Mitteilungen*. [PDF](https://www.nomos-elibrary.de/10.5771/0342-300X-2018-5-358.pdf) · [DOI](https://doi.org/10.5771/0342-300X-2018-5-358)
+- Andreas Damelang, Andreas Haupt, Martin Abraham (2018). **Economic consequences of occupational deregulation: Natural experiment in the German crafts.** *Acta Sociologica*. [PDF](https://journals.sagepub.com/doi/pdf/10.1177/0001699316688513)
